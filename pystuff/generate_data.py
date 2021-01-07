@@ -4,7 +4,7 @@ import time
 mock_data = []
 mock_sequence = [2000]
 
-how_many = 6000000
+how_many = 60
 
 for i in range(0, how_many): # Start at 0 stop before 60 (that is, a count of 60 items)
     mock_data.append(random.randint(0, 4095)) # a random set of values

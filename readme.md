@@ -1,5 +1,18 @@
-## Some Links
+## Stuff to think about
+* Bibliograpy
+* Github shared repository
+* There are 5 sensors - do we need to distiguish between them?
+* SQL or NoSQL (Mongo)
+* Be clear which techology is operating where
+* There are at least 2-3 computer systems involved
+* Mock/dummy data for developing against
+* Real data/historical data
+* Someone needs to actually lay on sensor for significant periods of time
+* Data 'density'
+* Deliverables: what do they actually want (for assessment)
+* Record the process: your thinking, why change mind, sample coe that you abandon...
 
+## Some Links
 ### Projects to show ESP32 sensor data on a web page
 
 Skim these ideas to see what's involved and help decide if minimal or 'full-fat' solution is needed.
